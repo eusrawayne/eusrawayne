@@ -26,7 +26,12 @@ I'm passionate about building secure cloud infrastructure and exploring cybersec
 ---
 
 
-[](url)[](url)[](url)[](url)[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/d8e1e2dd-acc1-4387-a1a9-3d994ec2d82f) [![AWS re/Start Graduate](https://img.shields.io/badge/AWS_re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/6c87dec4-ec03-442f-94a2-fe849aa67c7b)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/d8e1e2dd-acc1-4387-a1a9-3d994ec2d82f) [![AWS re/Start Graduate](https://img.shields.io/badge/AWS_re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/6c87dec4-ec03-442f-94a2-fe849aa67c7b) [![Cisco Cybersecurity CCST](https://img.shields.io/badge/Cisco_Cybersecurity_CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/badge/c4badf82-fa84-45c1-92db-4fb624951334)
+
+## 📜 Certifications
+
+- ✅ **AWS Certified Cloud Practitioner** (2025)
+[](url)[[[](url)](url)](url)[](url)[](url)[](url)- ✅ **Cisco Cybersecurity (CCST)** (2025)badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/d8e1e2dd-acc1-4387-a1a9-3d994ec2d82f) [![AWS re/Start Graduate](https://img.shields.io/badge/AWS_re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/6c87dec4-ec03-442f-94a2-fe849aa67c7b)
 ### 🎖️ Certifications
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/d8e1e2dd-acc1-4387-a1a9-3d994ec2d82f)

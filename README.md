@@ -25,6 +25,9 @@ I'm passionate about building secure cloud infrastructure and exploring cybersec
 
 ---
 
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/your-badge-id)
+[![Cisco Cybersecurity CCST](https://img.shields.io/badge/Cisco_Cybersecurity_CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/your-badge-id)
 ## 📜 Certifications
 
 - ✅ **AWS Certified Cloud Practitioner** (2025)

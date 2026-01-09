@@ -38,8 +38,7 @@ I'm passionate about building secure cloud infrastructure and exploring cybersec
 - [AWS re/Start Graduate](https://www.credly.com/earner/earned/badge/6c87dec4-ec03-442f-94a2-fe849aa67c7b)
 - [Cisco Certified Support Technician Cybersecurity](https://www.credly.com/earner/earned/badge/c4badf82-fa84-45c1-92db-4fb624951334)(https://www.credly.com/earner/earned/badge/c4badf82-fa84-45c1-92db-4fb624951334)(https://www.credly.com/earner/earned/badge/d8e1e2dd-acc1-4387-a1a9-3d994ec2d82f) [![AWS re/Start Graduate](https://images.credly.com/size/220x220/images/41aef1cd-c90c-42e4-abb5-fbb7e59cf0d8/image.png)](https://www.credly.com/earner/earned/badge/6c87dec4-ec03-442f-94a2-fe849aa67c7b)
 
-[![Cisco Certified Support Technician Cybersecurity](https://images.credly.com/size/220x220/images/5d5a59fa-76f0-41f8-b2d0-f9a6b07da924/image.png)](https://www.credly.com/earner/earned/badge/c4badf82-fa84-45c1-92db-4fb624951334)aws&logoColor=white)](https://www.credly.com/badges/your-badge-id)
-[[](url)](url)[![Cisco Cybersecurity CCST](https://img.shields.io/badge/Cisco_Cybersecurity_CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/your-badge-id)
+
 ## 📜 Certifications
 
 - ✅ **AWS Certified Cloud Practitioner** (2025)

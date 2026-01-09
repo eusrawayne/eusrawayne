@@ -46,4 +46,4 @@ Building a portfolio in cloud security, exploring AWS services deeper, and stren
 
 ---
 
-**Let's connect!** [LinkedIn](https://linkedin.com/in/eusrawayne) | [Portfolio](#) | **Email**: your@email.com
+**Let's connect!** [LinkedIn](https://www.linkedin.com/in/carita-fonseca/) | [GitHub](https://github.com/eusrawayne)

@@ -41,6 +41,7 @@ I'm passionate about building secure cloud infrastructure and exploring cybersec
 - [`aws-cloud-labs`](https://github.com/eusrawayne/aws-cloud-labs) – Hands-on AWS Cloud labs inspired by Cloud Practitioner exam
 - [`cloud-security-labs`](https://github.com/eusrawayne/cloud-security-labs) – AWS security labs (IAM, monitoring, threat detection)
 - [`cyber-labs`](https://github.com/eusrawayne/cyber-labs) – Cybersecurity fundamentals (networking, logs, incident response)
+- [**terraform-aws-secure-infrastructure**](https://github.com/eusrawayne/terraform-aws-secure-infrastructure) - Infrastructure as Code with Terraform for secure, multi-tier AWS architecture. Built for Kyndryl DevOps Engineer role requirements. Demonstrates VPC design, security groups, IAM roles, RDS encryption, and CloudWatch monitoring.
 
 ---
 
